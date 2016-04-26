@@ -5,8 +5,8 @@
 **very wonderful**  
 ***best***  
 `code1`  
-    code2  
-    code3  
+     code2  
+     code3  
 1. one  
 2. two  
 3. three  
@@ -16,5 +16,5 @@
 
 ***  
 
-email<shirleyh@wicresoft.com>  
+email <shirleyh@wicresoft.com>  
 [azure web](https://www.azure.cn)  
