@@ -11,12 +11,12 @@
 1. one  
 2. two  
 3. three  
-*four  
-*five  
-*six  
--seven  
--eight  
--nine  
+* four  
+* five  
+* six  
+- seven  
+- eight  
+- nine  
 
 
 ***  
