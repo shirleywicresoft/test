@@ -1,6 +1,6 @@
 #learn how to use markdown  
 ![markdown](http://c.hiphotos.baidu.com/baike/c0%3Dbaike180%2C5%2C5%2C180%2C60/sign=d997317c11ce36d3b6098b625b9a51e2/00e93901213fb80ef9ceac7132d12f2eb938947d.jpg)  
-> from wacn  
+> for wacn  
 *wonderful*  
 **very wonderful**  
 ***best***  
@@ -13,6 +13,7 @@
 * four  
 * five  
 * six  
+
 ***  
 
 email<shirleyh@wicresoft.com>  
