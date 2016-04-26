@@ -36,5 +36,7 @@ haha <hello@163.com>
 哈哈哈哈哈哈  
 -  
 
+hello[^hello] 
+
      
 
