@@ -29,16 +29,6 @@ email <shirleyh@wicresoft.com>
 
 > 这是引用的话：知识改变命运  
 
-     code4
-     
-haha <hello@163.com>  
+![pic](./pic/1.jpg)  
 
-哈哈哈哈哈哈  
--  
-
-lalallalllalal
-<br>
-hahahahhahahah
-
-     
 
