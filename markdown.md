@@ -15,6 +15,9 @@
 * six  
 
 ***  
+方案 | 权限 |  
+---------------|--------------|  
+密码同步 | <li>复制目录更改。</li><li>复制正文更改。</li>
 
 email <shirleyh@wicresoft.com>  
 [azure web](https://www.azure.cn)  
