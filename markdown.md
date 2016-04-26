@@ -25,3 +25,6 @@
 
 email <shirleyh@wicresoft.com>  
 [azure web](https://www.azure.cn)  
+
+> 这是引用的话：知识改变命运  
+
